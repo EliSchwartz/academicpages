@@ -1,5 +1,11 @@
 # main links links
-main:
+main:     
+  - title: "DL;DR"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
 #  - title: "Publications"
 #    url: /publications/
 
@@ -11,12 +17,5 @@ main:
     
 #  - title: "Portfolio"
 #    url: /portfolio/
-        
-   - title: "DL;DR"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
 #  - title: "Guide"
 #    url: /markdown/

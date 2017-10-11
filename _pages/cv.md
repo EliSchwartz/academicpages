@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2007-2011 B.Sc. Electrical Engineering, Technion, Israel
+* 2016-Present: 
+* *2007-2011: B.Sc. Electrical Engineering, Technion, Israel*
   * Specialized in - Signal and Image Processing, Computer Engineering, Biological signals and Systems
   * Final project - Detection of manipulations (“photoshopping”) in images
     * The project won the Thomas Schwartz Award for outstanding projects in image processing and computer vision

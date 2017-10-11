@@ -11,25 +11,29 @@ redirect_from:
 
 Education
 ======
-* 2016-Present: 
-* 2007-2011: B.Sc. Electrical Engineering, Technion, Israel
-  * Specialized in - Signal and Image Processing, Computer Engineering, Biological signals and Systems
-  * Final project - Detection of manipulations (“photoshopping”) in images
-    * The project won the Thomas Schwartz Award for outstanding projects in image processing and computer vision
-    * The software was sold to an Israeli intelligence agency
-* M.S. in Jekyll, Github University, 2014
+**2016-Present: Ph.D. Electrical Engineering, Tel Aviv University, Israel**
+**2007-2011: B.Sc. Electrical Engineering, Technion, Israel**
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**2016-2017: Co-founder – Fast Imaging**
+* A startup commercializing research on deep learning for image enhancement
+* Funded by Samsung
+**2015-2017 Co-founder & CTO – Inka Robotics**
+* A startup developing a vision-based autonomous tattooing robot
+* Led the technical team developing algorithms, software & micro-controllers
+* Turn it from idea to a working prototype (that tattooed my leg)
+2013-2016 Computer Vision Algorithm Engineer – Microsoft
+ Worked on the HoloLens Project (augmented reality smart glasses)
+ Part of an incubation team – fast development of PoC for innovative technologies
+ Developed computer vision algorithms for 3D cameras and Gaze tracking
+ Developed algorithms in Matlab & performance critical implementations in C++
+2011-2013 ASIC Engineer – Qualcomm
+ Formal verification technical lead
+ Functional verification
+2008-2011 ASIC Engineering Intern – IBM
+ ASIC formal and functional verification
+2002-2005 Military Service - Combat military service in the Armored Corps, IDF
   
 Skills
 ======

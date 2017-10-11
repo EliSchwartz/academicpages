@@ -17,7 +17,6 @@ Education
     * The project won the Thomas Schwartz Award for outstanding projects in image processing and computer vision
     * The software was sold to an Israeli intelligence agency
 * M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
 
 Work experience
 ======

@@ -11,7 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
+* 2007-2011 B.Sc. Electrical Engineering, Technion, Israel
+  * Specialized in - Signal and Image Processing, Computer Engineering, Biological signals and Systems
+  * Final project - Detection of manipulations (“photoshopping”) in images
+    * The project won the Thomas Schwartz Award for outstanding projects in image processing and computer vision
+    * The software was sold to an Israeli intelligence agency
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
 

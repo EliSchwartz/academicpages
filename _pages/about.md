@@ -8,8 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I'm a grad student and
+I'm a grad student in Tel-Aviv University and researcher in IBM.
 
-Some past projects
+My research interests include image processing, computer vision and machine (deep) learning.
+
+Some past work
 ======
-aasdad
+<p align="middle">
+<p float="left">
+    <img src="https://github.com/EliSchwartz/EliSchwartz.github.io/blob/master/images/deepisp.jpeg" width="300"  title= "DeepISP: learning ato generate visually appealing images from raw sensor data"/> 
+  <img src="https://github.com/EliSchwartz/EliSchwartz.github.io/blob/master/images/hololens.jpg" width="300" title= "Worked on HoloLens in Microsoft. Mainly, depth cameras and gaze tracking."/>
+
+  <br />
+  <img src="https://github.com/EliSchwartz/EliSchwartz.github.io/blob/master/images/photoshop_detection.gif" width="300" title= "Detecting manipulations in images."/>
+    <img src="https://github.com/EliSchwartz/EliSchwartz.github.io/blob/master/images/inka.jpeg" width="300"  title= "Co-founded and CTOed Inka-Robotics. Devloped an autonomous tattooing robot that tattooed my leg."/> 
+
+  
+</p>
+</p>

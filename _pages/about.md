@@ -26,5 +26,6 @@ Some past work
   <img src="https://elischwartz.github.io/images/gaze_tracking.jpg" width="300" title= "Worked on gaze tracking in Microsoft."/>
    <br />
   <img src="https://elischwartz.github.io/images/hololens.jpg" width="300" title= "Worked on HoloLens' depth camera in Microsoft."/>
+  <img src="https://elischwartz.github.io/images/face_symmetry.gif" width="300" title= "Fun project: how would you look if your face would have been symmetric."/>
 </p>
 </p>

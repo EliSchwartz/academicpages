@@ -23,6 +23,8 @@ Some past work
   <br />
   <a href="https://elischwartz.github.io/files/photoshop_detection.pdf">
   <img src="https://elischwartz.github.io/images/photoshop_detection.gif" width="300" title= "Detecting manipulations in images."/>   </a>
-  <img src="https://elischwartz.github.io/images/hololens.jpg" width="300" title= "Worked on HoloLens in Microsoft. Mainly, depth cameras and gaze tracking."/>
+  <img src="https://elischwartz.github.io/images/gaze_tracking.jpg" width="300" title= "Worked on gaze tracking in Microsoft."/>
+   <br />
+  <img src="https://elischwartz.github.io/images/hololens.jpg" width="300" title= "Worked on HoloLens' depth camera in Microsoft."/>
 </p>
 </p>

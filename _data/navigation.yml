@@ -3,8 +3,8 @@ main:
   - title: "About me"
     url: /about/
     
-  - title: "DL;DR"
-    url: /year-archive/
+#  - title: "DL;DR"
+#    url: /year-archive/
     
   - title: "CV"
     url: /cv/

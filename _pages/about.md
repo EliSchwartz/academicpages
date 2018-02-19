@@ -29,28 +29,3 @@ Some past work
   <img src="https://elischwartz.github.io/images/face_symmetry.gif" width="300" title= "Fun project: how would you look if your face would have been symmetric."/>
 </p>
 </p>
-
-//<div id="basicExample2" class="justified-gallery">
-//    <a href="https://elischwartz.github.io/images/deepisp.jpeg">
-//        <img alt="caption for image 1" src="https://elischwartz.github.io/images/deepisp.jpeg"/>
-//    </a>
-//    <a href="https://elischwartz.github.io/images/deepisp.jpeg" title="Just in a dream Place">
-//        <img alt="caption for image 2" src="https://elischwartz.github.io/images/deepisp.jpeg"/>
-//    </a>
-//</div>
-
-
-<table style="width:100%">
-  <tr>
-    <td> <a href="https://elischwartz.github.io/images/deepisp.jpeg">
-        <img alt="caption for image 1" src="https://elischwartz.github.io/images/deepisp.jpeg"/>
-    </a>
-     <a href="https://elischwartz.github.io/images/deepisp.jpeg">
-        <img alt="caption for image 1" src="https://elischwartz.github.io/images/deepisp.jpeg"/>
-    </a>
-    </td>
-    <td> <a href="https://elischwartz.github.io/images/deepisp.jpeg">
-        <img alt="caption for image 1" src="https://elischwartz.github.io/images/deepisp.jpeg"/>
-    </a></td> 
-  </tr>
-</table>

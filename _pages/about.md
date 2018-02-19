@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a grad student in Tel-Aviv University and researcher in IBM.
 
-My research interests include image processing, computer vision and machine (deep) learning.
+My research interests include image processing, computer vision and (deep) machine learning.
 
 Some past work
 ======

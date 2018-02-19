@@ -21,7 +21,8 @@ Some past work
   <a href="https://www.youtube.com/watch?v=YW3gYgdSxy4" target="_blank">
   <img src="https://elischwartz.github.io/images/inka.jpeg" width="300"  title= "Co-founded and CTOed Inka-Robotics. Devloped an autonomous tattooing robot that tattooed my leg."/>  </a>
   <br />
-  <img src="https://elischwartz.github.io/images/photoshop_detection.gif" width="300" title= "Detecting manipulations in images."/>  
+  <a href="https://elischwartz.github.io/files/photoshop_detection.pdf">
+  <img src="https://elischwartz.github.io/images/photoshop_detection.gif" width="300" title= "Detecting manipulations in images."/>   </a>
   <img src="https://elischwartz.github.io/images/hololens.jpg" width="300" title= "Worked on HoloLens in Microsoft. Mainly, depth cameras and gaze tracking."/>
 </p>
 </p>

@@ -38,10 +38,5 @@ Some past work
         <img alt="caption for image 2" src="https://elischwartz.github.io/images/deepisp.jpeg"/>
     </a>
 </div>
-<script>
-$('#basicExample2').justifiedGallery({
-    rowHeight : 70,
-    lastRow : 'nojustify',
-    margins : 3
-});
-  </script>
+
+

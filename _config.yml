@@ -119,6 +119,7 @@ include:
   - _pages
   - files
   - images
+  - assets/js/vendor
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -128,7 +129,6 @@ exclude:
   - .sass-cache
   - assets/js/plugins
   - assets/js/_main.js
-  - assets/js/vendor
   - Capfile
   - CHANGELOG
   - config

@@ -40,3 +40,18 @@ Some past work
 </div>
 
 
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td> <a href="https://elischwartz.github.io/images/deepisp.jpeg">
+        <img alt="caption for image 1" src="https://elischwartz.github.io/images/deepisp.jpeg"/>
+    </a></td>
+    <td> <a href="https://elischwartz.github.io/images/deepisp.jpeg">
+        <img alt="caption for image 1" src="https://elischwartz.github.io/images/deepisp.jpeg"/>
+    </a></td> 
+  </tr>
+</table>

@@ -18,7 +18,7 @@ Some past work
 <p float="left">
   <a href="https://elischwartz.github.io/DeepISP/">
   <img src="https://elischwartz.github.io/images/deepisp.jpeg" width="300"  title= "DeepISP: learning to generate visually appealing images from raw sensor data"/> </a>
-  <a href="https://www.youtube.com/watch?v=YW3gYgdSxy4">
+  <a href="https://www.youtube.com/watch?v=YW3gYgdSxy4" target="_blank">
   <img src="https://elischwartz.github.io/images/inka.jpeg" width="300"  title= "Co-founded and CTOed Inka-Robotics. Devloped an autonomous tattooing robot that tattooed my leg."/>  </a>
   <br />
   <img src="https://elischwartz.github.io/images/photoshop_detection.gif" width="300" title= "Detecting manipulations in images."/>  

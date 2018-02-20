@@ -26,7 +26,7 @@ Some past work
   <img src="https://elischwartz.github.io/images/photoshop_detection.gif" width="400" title= "Detecting manipulations in images."/>   </a>
   <img src="https://elischwartz.github.io/images/gaze_tracking.jpg" width="400" title= "Worked on gaze tracking in Microsoft."/>
    <br />
-  <img src="https://elischwartz.github.io/images/hololens.jpg" width="400" title= "Worked on HoloLens' depth camera in Microsoft."/>
+  <img src="https://elischwartz.github.io/images/hololens.png" width="400" title= "Worked on HoloLens' depth camera in Microsoft."/>
   <img src="https://elischwartz.github.io/images/face_symmetry.gif" width="400" title= "Fun project: how would you look if your face would have been symmetric? Creepy!"/>
 </p>
 </p>

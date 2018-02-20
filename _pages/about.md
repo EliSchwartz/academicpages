@@ -32,6 +32,7 @@ Some past work
 </p>
 
 
+<!--
 <div id="basicExample2" class="justified-gallery">
     <a href="https://elischwartz.github.io/images/deepisp.jpeg">
         <img alt="caption for image 1" src="https://elischwartz.github.io/images/deepisp.jpeg"/>
@@ -41,7 +42,6 @@ Some past work
     </a>
 </div>
 
-<!--
 <table style="border-spacing: 0;width:100%"  cellspacing="0" cellpadding="0">
   <tr>
     <td> 

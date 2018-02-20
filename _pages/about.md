@@ -30,7 +30,7 @@ Some past work
    <br />
   <img src="https://elischwartz.github.io/images/hololens.jpg" width="400" title= "Worked on HoloLens' depth camera in Microsoft."/>
     <br />
-  <img src="https://elischwartz.github.io/images/face_symmetry.gif" width="400" title= "Fun project: how would you look if your face would have been symmetric."/>
+  <img src="https://elischwartz.github.io/images/face_symmetry.gif" width="400" title= "Fun project: how would you look if your face would have been symmetric? Creepy!"/>
 </p>
 </p>
 

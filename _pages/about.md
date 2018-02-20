@@ -31,6 +31,16 @@ Some past work
 </p>
 </p>
 
+
+<div id="basicExample2" class="justified-gallery">
+    <a href="https://elischwartz.github.io/images/deepisp.jpeg">
+        <img alt="caption for image 1" src="https://elischwartz.github.io/images/deepisp.jpeg"/>
+    </a>
+    <a href="https://elischwartz.github.io/images/deepisp.jpeg" title="Just in a dream Place">
+        <img alt="caption for image 2" src="https://elischwartz.github.io/images/deepisp.jpeg"/>
+    </a>
+</div>
+
 <!--
 <table style="border-spacing: 0;width:100%"  cellspacing="0" cellpadding="0">
   <tr>

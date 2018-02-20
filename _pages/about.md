@@ -15,8 +15,7 @@ My research interests include image processing, computer vision and (deep) machi
 Some past work
 ======
 
-<p align="middle">
-<p float="left" style="display: inline-block">
+
   <a href="https://elischwartz.github.io/DeepISP/">
   <img src="https://elischwartz.github.io/images/deepisp.jpg" width="400"  title= "DeepISP: learning to generate visually appealing images from raw sensor data"/> </a>
   <a href="https://www.youtube.com/watch?v=YW3gYgdSxy4" target="_blank">
@@ -28,8 +27,7 @@ Some past work
    <br />
   <img src="https://elischwartz.github.io/images/hololens.jpg" width="400" title= "Worked on HoloLens' depth camera in Microsoft."/>
   <img src="https://elischwartz.github.io/images/face_symmetry.gif" width="400" title= "Fun project: how would you look if your face would have been symmetric? Creepy!"/>
-</p>
-</p>
+
 
 
 <!--

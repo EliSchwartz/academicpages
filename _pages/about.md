@@ -32,7 +32,7 @@ Some past work
 </p>
 -->
 
-<table style="width:100%">
+<table style="border-spacing: 0;width:100%"  cellspacing="0">
   <tr>
     <td> 
       <a href="https://elischwartz.github.io/images/deepisp.jpeg">

@@ -14,7 +14,7 @@ My research interests include image processing, computer vision and (deep) machi
 
 Some past work
 ======
-<!--
+
 <p align="middle">
 <p float="left">
   <a href="https://elischwartz.github.io/DeepISP/">
@@ -30,8 +30,8 @@ Some past work
   <img src="https://elischwartz.github.io/images/face_symmetry.gif" width="300" title= "Fun project: how would you look if your face would have been symmetric."/>
 </p>
 </p>
--->
 
+<!--
 <table style="border-spacing: 0;width:100%"  cellspacing="0" cellpadding="0">
   <tr>
     <td> 
@@ -52,6 +52,6 @@ Some past work
     </td> 
   </tr>
 </table>
-
+-->
 
 

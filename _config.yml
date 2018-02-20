@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Eli Schwartz"
   avatar           : "profile-pic.jpg"
-  bio              : "Computer Vision specialist"
+  bio              : "Computer Vision Specialist"
   location         : "Israel"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : me at eli-schwartz.com
   uri              :
   bitbucket        :
   codepen          :

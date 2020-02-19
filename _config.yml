@@ -84,7 +84,7 @@ author:
   bio              : "Computer Vision Specialist"
   location         : "Israel"
   employer         :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=7ttMZRUAAAAJ&hl=en"
   email            : me at eli-schwartz.com
   uri              :
   bitbucket        :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "Eli_Schwartz"
   vine             :
   weibo            :
   xing             :

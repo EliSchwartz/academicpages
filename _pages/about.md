@@ -3,12 +3,12 @@ permalink: /
 title: "About me"
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm a grad student in Tel-Aviv University and researcher in IBM.
+I'm a PhD student in Tel-Aviv University and researcher in IBM Research AI.
 
 My research interests include image processing, computer vision and (deep) machine learning.
 
@@ -32,7 +32,7 @@ Some past work
 
 <table style="border-spacing: 0;width:100%"  cellspacing="0" cellpadding="0">
   <tr>
-    <td> 
+    <td>
       <a href="https://elischwartz.github.io/images/deepisp.jpeg">
         <img alt="caption for image 1" src="https://elischwartz.github.io/images/deepisp.jpeg"/>
     </a>
@@ -40,16 +40,14 @@ Some past work
         <img alt="caption for image 1" src="https://elischwartz.github.io/images/deepisp.jpeg"/>
     </a>
     </td>
-    <td> 
+    <td>
       <a href="https://elischwartz.github.io/images/deepisp.jpeg">
         <img alt="caption for image 1" src="https://elischwartz.github.io/images/deepisp.jpeg"/>
-    </a> 
+    </a>
       <a href="https://elischwartz.github.io/images/inka.jpeg">
         <img alt="caption for image 1" src="https://elischwartz.github.io/images/inka.jpeg"/>
     </a>
-    </td> 
+    </td>
   </tr>
 </table>
 -->
-
-

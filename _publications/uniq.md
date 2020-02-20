@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/uniq
 excerpt: ''
 date: 2018-01-01
-venue: ''
+venue: 'Arxiv'
 paperurl: 'https://arxiv.org/pdf/1804.10969'
 authors: 'C. Baskin*, E. Schwartz*, E. Zheltonozhskii, N. Liss, R. Giryes, A. M. Bronstein and A. Mendelson'
 ---

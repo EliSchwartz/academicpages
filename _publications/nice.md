@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/nice
 excerpt: ''
 date: 2018-10-01
-venue: ''
+venue: 'Arxiv'
 paperurl: 'https://arxiv.org/pdf/1810.00162'
 authors: 'C. Baskin, N. Liss, Y. Chai, E. Zheltonozhskii, E. Schwartz, R. Giryes, A. Mendelson and A. M. Bronstein'
 ---

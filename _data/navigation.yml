@@ -3,17 +3,17 @@ main:
   - title: "About me"
     url: /about/
 
-  - title: "Blog Posts"
-    url: /posts/
-
-  - title: "CV"
-    url: https://elischwartz.github.io/files/Eli%20Schwartz%20-%20CV.pdf
-
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/
+
+- title: "Blog Posts"
+    url: /year-archive/
+
+  - title: "CV"
+    url: https://elischwartz.github.io/files/Eli%20Schwartz%20-%20CV.pdf
 
 #  - title: "Teaching"
 #    url: /teaching/

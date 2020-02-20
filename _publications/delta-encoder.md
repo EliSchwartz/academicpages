@@ -1,7 +1,7 @@
 ---
 title: "Delta-encoder: an effective sample synthesis method for few-shot object recognition"
 collection: publications
-permalink: /publication/nice
+permalink: /publication/delta-encoder
 excerpt: 'Spotlight (3% acceptance rate)'
 date: 2018-01-01
 venue: 'Advances in Neural Information Processing Systems'

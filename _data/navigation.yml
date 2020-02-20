@@ -3,8 +3,8 @@ main:
   - title: "About me"
     url: /about/
 
-#  - title: "DL;DR"
-#    url: /year-archive/
+  - title: "Blog Posts"
+    url: /posts/
 
   - title: "CV"
     url: https://elischwartz.github.io/files/Eli%20Schwartz%20-%20CV.pdf

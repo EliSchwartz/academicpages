@@ -3,7 +3,7 @@ title: "DeepISP: Learning End-to-End Image Processing Pipeline"
 collection: publications
 permalink: /publication/deepisp
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018
+date: 2018-01-01
 venue: 'IEEE Transactions on Image Processing'
 paperurl: 'https://arxiv.org/pdf/1801.06724.pdf'
 citation: 'Schwartz, E., Giryes, R., & Bronstein, A. M. (2018). DeepISP: Toward learning an end-to-end image processing pipeline. IEEE Transactions on Image Processing, 28(2), 912-923.'

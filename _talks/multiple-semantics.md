@@ -1,5 +1,5 @@
 ---
-title: "few-shot learning with multiple semantics"
+title: "Few-shot learning with multiple semantics"
 collection: talks
 type: "Presentation"
 permalink: /talks/multiple-semantics

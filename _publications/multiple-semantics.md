@@ -3,7 +3,7 @@ title: "Baby steps towards few-shot learning with multiple semantics"
 collection: publications
 permalink: /publication/multiple-semantics
 excerpt: ''
-date: 2019-01-01
+date: 2019-06-01
 venue: 'CVPR (Workshop)'
 paperurl: 'https://arxiv.org/pdf/1906.01905'
 authors: 'E. Schwartz*, L. Karlinsky*, R. Feris, R. Giryes and A. Bronstein'

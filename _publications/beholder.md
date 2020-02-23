@@ -3,7 +3,7 @@ title: "Beholder-GAN: Generation and Beautification of Facial Images with Condit
 collection: publications
 permalink: /publication/beholder
 excerpt: ''
-date: 2019-01-01
+date: 2019-09-01
 venue: 'IEEE International Conference on Image Processing (ICIP)'
 paperurl: 'https://arxiv.org/pdf/1902.02593'
 authors: 'Nir Diamant, Dean Zadok, Chaim Baskin, Eli Schwartz, Alex M. Bronstein'

@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/hasoub
 venue: "HASOUB Hackathon"
 date: 2017-05-01
-location: "￿Nazeret, Israel"
+location: "Nazeret, Israel"
 ---
 
-Intro to AI for young Arabs participating in the hackathon
+Intro to AI for young Arabs participating in the HASOUB Hackathon.

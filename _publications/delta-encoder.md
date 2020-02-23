@@ -3,7 +3,7 @@ title: "Delta-encoder: an effective sample synthesis method for few-shot object 
 collection: publications
 permalink: /publication/delta-encoder
 excerpt: 'Spotlight (3% acceptance rate)'
-date: 2018-01-01
+date: 2018-12-01
 venue: 'Advances in Neural Information Processing Systems'
 paperurl: 'https://arxiv.org/pdf/1806.04734'
 authors: 'E. Schwartz*, L. Karlinsky*, J. Shtok, S. Harary, M. Marder, R. Feris, A. Kumar, R. Giryes and A. Bronstein'

@@ -3,7 +3,7 @@ title: "RepMet: Representative-based metric learning for classification and one-
 collection: publications
 permalink: /publication/repmet
 excerpt: ''
-date: 2019-01-01
+date: 2019-06-01
 venue: 'IEEE Conference on Computer Vision and Pattern Recognition'
 paperurl: 'https://arxiv.org/pdf/1806.04728'
 authors: 'L. Karlinsky*, J. Shtok*, S. Harary*, E. Schwartz*, M. Marder, S. Pankanti, R. Feris, A. Kumar, R. Giryes and A.

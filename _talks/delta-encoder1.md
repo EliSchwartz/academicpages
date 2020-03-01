@@ -3,8 +3,8 @@ title: "Delta-encoder: an effective sample synthesis method for few-shot object 
 collection: talks
 type: "Seminar"
 permalink: /talks/delta-encoder1
-venue: "Geometric Computing LAB at Stanford University"
-date: 2018-12-01
+venue: "Geometric Computing LAB, Stanford University"
+date: 2018-10-19
 location: "CA, USA"
 ---
 

@@ -4,7 +4,7 @@ collection: talks
 type: "Spotlight"
 permalink: /talks/delta-encoder
 venue: "NeurIPS 2018"
-date: 2018-12-01
+date: 2018-12-05
 location: "Montreal, Canada"
 ---
 

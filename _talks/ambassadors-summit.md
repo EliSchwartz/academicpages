@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/ambassadors-summit
 venue: "The 6th Ambassadors' Summit, Tel Aviv University"
-date: 2020-07-27
+date: 2020-02-27
 location: "Tel Aviv, Israel"
 ---
 

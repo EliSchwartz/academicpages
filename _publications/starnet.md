@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/starnet
 excerpt: ''
 date: 2020-03-01
-venue: ''
+venue: 'AAAI21'
 paperurl: 'https://arxiv.org/abs/2003.06798'
 authors: 'L. Karlinsky*, J. Shtok*, A. Alfassy*, M. Lichtenstein*, S. Harary, E. Schwartz, S. Doveh, P. Sattigeri, R. Feris, A. Bronstein, R. Giryes'
 ---

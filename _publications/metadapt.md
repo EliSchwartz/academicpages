@@ -3,8 +3,8 @@ title: "MetAdapt: Meta-Learned Task-Adaptive Architecture for Few-Shot Classific
 collection: publications
 permalink: /publication/metadapt
 excerpt: ''
-date: 2019-12-01
-venue: 'Arxiv'
+date: 2020-12-01
+venue: 'CVPR (Workshop)'
 paperurl: 'https://arxiv.org/pdf/1912.00412'
 authors: 'Sivan Doveh*, Eli Schwartz*, Chao Xue, Rogerio Feris, Alex Bronstein, Raja Giryes, Leonid Karlinsky'
 ---

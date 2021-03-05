@@ -2,9 +2,9 @@
 title: "Fine-grained Angular Contrastive Learning with Coarse Labels"
 collection: publications
 permalink: /publication/ancor
-excerpt: ''
+excerpt: 'Oral'
 date: 2020-12-07
-venue: 'Arxiv'
+venue: 'CVPR 2021'
 paperurl: 'https://arxiv.org/abs/2012.03515'
 authors: 'Guy Bukchin, Eli Schwartz, Kate Saenko, Ori Shahar, Rogerio Feris, Raja Giryes*, Leonid Karlinsky*'
 ---

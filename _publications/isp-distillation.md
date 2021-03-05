@@ -3,7 +3,7 @@ title: "ISP Distillation"
 collection: publications
 permalink: /publication/isp-distillation
 excerpt: ''
-date: 2021-25-01
+date: 2021-01-25
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2101.10203'
 authors: 'E. Schwartz, A. M. Bronstein and R. Giryes'

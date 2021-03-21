@@ -3,7 +3,7 @@ title: "StarNet: towards weakly supervised few-shot detection and explainable fe
 collection: publications
 permalink: /publication/starnet
 excerpt: ''
-date: 2020-03-01
+date: 2021-02-02
 venue: 'AAAI21'
 paperurl: 'https://arxiv.org/abs/2003.06798'
 authors: 'L. Karlinsky*, J. Shtok*, A. Alfassy*, M. Lichtenstein*, S. Harary, E. Schwartz, S. Doveh, P. Sattigeri, R. Feris, A. Bronstein, R. Giryes'

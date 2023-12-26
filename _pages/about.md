@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in Tel-Aviv University and researcher in IBM Research AI.
+I'm an AI Research Scientist at IBM Research AI.
 
-My research interests include image processing, computer vision and (deep) machine learning.
+My research interests include computer vision and vision-language foundation models.
 
 Some past work
 ======

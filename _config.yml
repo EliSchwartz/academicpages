@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Eli Schwartz"
 title_separator          : "-"
-name                     : &name "Eli Schwartz"
+name                     : &name "Eli Schwartz, Ph.D."
 description              : &description "Computer Vision Specialist"
 url                      : "https://elischwartz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Eli Schwartz"
   avatar           : "profile-pic.jpg"
-  bio              : "Computer Vision Specialist"
-  location         : "Israel"
+  bio              : "AI Research Scientist"
+  location         : #"Israel"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=7ttMZRUAAAAJ&hl=en"
   email            : "me@eli-schwartz.com"

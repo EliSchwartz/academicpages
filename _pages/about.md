@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an AI Research Scientist at IBM Research AI.
-
-My research interests include computer vision and vision-language foundation models.
+I am an AI Research Scientist with 15 years of tech experience, holding a strong publication record in top-tier conferences such as NeurIPS, CVPR, AAAI, and ICCV. I am dedicated to performing research that has a significant, real-world impact and drives progress in practical applications. My primary research interests are in representation learning and vision and language foundation models.
 
 Some past work
 ======

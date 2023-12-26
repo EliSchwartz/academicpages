@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eli Schwartz"
+title                    : "Eli Schwartz, Ph.D."
 title_separator          : "-"
 name                     : &name "Eli Schwartz, Ph.D."
 description              : &description "Computer Vision Specialist"
